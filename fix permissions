@@ -1,0 +1,1 @@
+sudo chflags -R arch /Volumes/SD/*
